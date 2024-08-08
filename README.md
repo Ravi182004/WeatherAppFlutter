@@ -1,1 +1,2 @@
 # WeatherAppFlutter
+weather app built for both Android and iOS devices using the Flutter platform. It leverages the Rest API provided by OpenWeatherMap to fetch weather data from servers through HTTP requests. With Clima, users can access real-time weather information for their current location or any other city they search for. The app presents this data in a user-friendly and visually appealing manner, including details like temperature, humidity, and forecasts
